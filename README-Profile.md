@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BernardoOliveiraUSA, my name is "Bernardo de Oliveira";
 - 👀 I’m interested in Python, JavaScript, Java, Machine Learning and everthing related with Full Stack Development;
 - 📱 I can make a app, website or what you need;
-- 🌱 I’m currently learning so many things about Digital Marketing for Increase Sales and how make more automated;
+- 🌱 I’m currently learning so many things about Digital Marketing for Increase Sales and how make more automated tasks;
 - 💞️ Send me a messeage for talk about some project what you want develop
 - 📫 This is how you can find me: bernardo.oliveira.usa1@outlook.com
